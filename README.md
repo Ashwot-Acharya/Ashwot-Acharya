@@ -21,9 +21,6 @@ I'm currently a student  <br>Kathmandu university <br>Bsc Computational mathemat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashwot-Acharya&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashwot-Acharya&icon=2&color=11)](https://visitcount.itsvg.in)
 
