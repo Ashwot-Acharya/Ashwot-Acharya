@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwot</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://ashwotacharya.com.np/](https://ashwotacharya.com.np/)
+- 👨‍💻 Portfolio [https://ashwotacharya.com.np/](https://ashwotacharya.com.np/)
 
 - 📫 How to reach me **ashwot1133@gmail.com**
 
