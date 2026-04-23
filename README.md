@@ -5,19 +5,10 @@ I build things to understand them — from scratch, in code.
 
 ---
 
-## Projects
+## Projects in progress
 
 **[Spectral Learning Pipeline]()**  
 Connecting Weighted Finite Automata and Recurrent Neural Networks via SVD-based spectral learning. Implementation from the Rabusseau, Li & Precup paper. Built in NumPy.
-
-**[Fantech GP12 Linux Driver]()**  
-Rust kernel driver + Python evdev/uinput remapping for a controller with broken axis support on Linux/Proton. Includes raw USB packet analysis.
-
-**[2-RNN from Scratch]()**  
-Second-order Recurrent Neural Network implemented in pure NumPy. No frameworks — just math.
-
-**[Conky Desktop]()**  
-Lua/Cairo-based system monitor with dual rounded boxes and live Nvidia GPU stats via `nvidia-smi`.
 
 ---
 
