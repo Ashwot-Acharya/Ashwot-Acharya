@@ -25,7 +25,7 @@ Connecting Weighted Finite Automata and Recurrent Neural Networks via SVD-based 
 
 - Building a WFA → Hankel matrix → SVD → RNN recovery pipeline
 - Exploring Rust for kernel driver development
-- Running local LLMs (Qwen2.5 7B, RTX 4050)
+
 
 ---
 
